@@ -4,3 +4,7 @@
 
 - Baseball data analysis - Linear modeling project on predictng salaries using various game factos
 
+- Survey Analysis - Exploratory data analysis and hypothesis testing on jail population data 2016
+
+- Airline Revenue Optimization - Exploratory data analysis and hypothesis testing using 2017 flight and fare information.
+
